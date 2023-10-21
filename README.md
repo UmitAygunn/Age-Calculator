@@ -1,6 +1,6 @@
 # Age-Calculator
 
-This project is an age calculator created using HTML and CSS. It allows you to calculate your age in years, months, and days.
+This project is an age calculator created using HTML, CSS and JavaScript. It allows you to calculate your age in years, months, and days.
 
 # Demo
 
