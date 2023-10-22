@@ -4,6 +4,8 @@ This project is an age calculator created using HTML, CSS and JavaScript. It all
 
 # Demo
 
+![Age Calculator](https://github.com/UmitAygunn/Age-Calculator/assets/140657845/e968b93a-d6e9-4f59-8493-474e71e5fe56)
+
 Live Demo - Try out the live demo of the age calculator to calculate your age in years, months, and days.
 1) https://653392d8307ae203fac84fa5--taupe-pithivier-b1400b.netlify.app/
 
